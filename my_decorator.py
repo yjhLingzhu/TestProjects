@@ -49,5 +49,6 @@ def route4():
 
 
 if __name__ == "__main__":
+    # 测试
     import uvicorn
     uvicorn.run(app="my_decorator:app", host="0.0.0.0", reload=True)
