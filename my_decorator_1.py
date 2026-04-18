@@ -49,5 +49,6 @@ if __name__ == "__main__":
 
     # 我开发完了第一个功能
     # 功能3开发完
+    # 功能2开发完
     import uvicorn
     uvicorn.run(app="my_decorator_1:app", host="0.0.0.0", reload=True)
