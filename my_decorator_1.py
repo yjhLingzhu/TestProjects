@@ -39,6 +39,7 @@ def route3():
 # 未使用装饰器的路由不受影响
 @app.get("/route4")
 def route4():
+    # 测试优先
     return {"message": "Route 4"}
 
 
