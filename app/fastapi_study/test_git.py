@@ -3,3 +3,6 @@ def validate():
 
 def check():
     pass
+
+def gather():
+    pass
