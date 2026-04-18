@@ -6,3 +6,6 @@ def check():
 
 def gather():
     pass
+
+def gtm():
+    pass
