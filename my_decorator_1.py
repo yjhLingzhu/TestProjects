@@ -46,6 +46,5 @@ if __name__ == "__main__":
     # T1 DK
     # 我的可以投产
     # 功能2开发完
-    # 功能5开发完
     import uvicorn
     uvicorn.run(app="my_decorator_1:app", host="0.0.0.0", reload=True)
